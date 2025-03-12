@@ -1,20 +1,3 @@
----
-description: >-
-  Discover how Bento's DeFi-native savings products are reDeFining yields
-  on-chain.
-icon: gear
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
 
 # Protocol Mechanism
 
